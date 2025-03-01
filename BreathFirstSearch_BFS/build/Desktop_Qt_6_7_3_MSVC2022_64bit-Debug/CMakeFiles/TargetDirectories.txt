@@ -1,0 +1,8 @@
+C:/Users/vilcu/Desktop/projects/Graph-algorithms-implementation/BreathFirstSearch_BFS/build/Desktop_Qt_6_7_3_MSVC2022_64bit-Debug/CMakeFiles/BreathFirstSearch_BFS.dir
+C:/Users/vilcu/Desktop/projects/Graph-algorithms-implementation/BreathFirstSearch_BFS/build/Desktop_Qt_6_7_3_MSVC2022_64bit-Debug/CMakeFiles/edit_cache.dir
+C:/Users/vilcu/Desktop/projects/Graph-algorithms-implementation/BreathFirstSearch_BFS/build/Desktop_Qt_6_7_3_MSVC2022_64bit-Debug/CMakeFiles/rebuild_cache.dir
+C:/Users/vilcu/Desktop/projects/Graph-algorithms-implementation/BreathFirstSearch_BFS/build/Desktop_Qt_6_7_3_MSVC2022_64bit-Debug/CMakeFiles/list_install_components.dir
+C:/Users/vilcu/Desktop/projects/Graph-algorithms-implementation/BreathFirstSearch_BFS/build/Desktop_Qt_6_7_3_MSVC2022_64bit-Debug/CMakeFiles/install.dir
+C:/Users/vilcu/Desktop/projects/Graph-algorithms-implementation/BreathFirstSearch_BFS/build/Desktop_Qt_6_7_3_MSVC2022_64bit-Debug/CMakeFiles/install/local.dir
+C:/Users/vilcu/Desktop/projects/Graph-algorithms-implementation/BreathFirstSearch_BFS/build/Desktop_Qt_6_7_3_MSVC2022_64bit-Debug/CMakeFiles/BreathFirstSearch_BFS_autogen_timestamp_deps.dir
+C:/Users/vilcu/Desktop/projects/Graph-algorithms-implementation/BreathFirstSearch_BFS/build/Desktop_Qt_6_7_3_MSVC2022_64bit-Debug/CMakeFiles/BreathFirstSearch_BFS_autogen.dir

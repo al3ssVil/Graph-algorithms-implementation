@@ -1,0 +1,15 @@
+# ninja log v6
+26	516	7625456956923783	BreathFirstSearch_BFS_autogen/timestamp	bbd6ce8a729008ab
+26	516	7625456956923783	BreathFirstSearch_BFS_autogen/mocs_compilation.cpp	bbd6ce8a729008ab
+26	516	7625456956923783	C:/Users/vilcu/Desktop/projects/Graph-algorithms-implementation/BreathFirstSearch_BFS/build/Desktop_Qt_6_7_3_MSVC2022_64bit-Debug/BreathFirstSearch_BFS_autogen/timestamp	bbd6ce8a729008ab
+26	516	7625456956923783	C:/Users/vilcu/Desktop/projects/Graph-algorithms-implementation/BreathFirstSearch_BFS/build/Desktop_Qt_6_7_3_MSVC2022_64bit-Debug/BreathFirstSearch_BFS_autogen/mocs_compilation.cpp	bbd6ce8a729008ab
+530	3445	7625456957811178	CMakeFiles/BreathFirstSearch_BFS.dir/main.cpp.obj	96eefe0d69725117
+523	3482	7625456957741152	CMakeFiles/BreathFirstSearch_BFS.dir/BreathFirstSearch_BFS_autogen/mocs_compilation.cpp.obj	6ac56ed13ed920a7
+539	3590	7625456957896419	CMakeFiles/BreathFirstSearch_BFS.dir/mainwindow.cpp.obj	a9d2c14e3e96d689
+3591	3977	7625456988418127	BreathFirstSearch_BFS.exe	b6ba6002bf464e31
+131	399	7625457144548573	BreathFirstSearch_BFS_autogen/timestamp	bbd6ce8a729008ab
+131	399	7625457144548573	BreathFirstSearch_BFS_autogen/mocs_compilation.cpp	bbd6ce8a729008ab
+131	399	7625457144548573	C:/Users/vilcu/Desktop/projects/Graph-algorithms-implementation/BreathFirstSearch_BFS/build/Desktop_Qt_6_7_3_MSVC2022_64bit-Debug/BreathFirstSearch_BFS_autogen/timestamp	bbd6ce8a729008ab
+131	399	7625457144548573	C:/Users/vilcu/Desktop/projects/Graph-algorithms-implementation/BreathFirstSearch_BFS/build/Desktop_Qt_6_7_3_MSVC2022_64bit-Debug/BreathFirstSearch_BFS_autogen/mocs_compilation.cpp	bbd6ce8a729008ab
+404	3682	7625457147282956	CMakeFiles/BreathFirstSearch_BFS.dir/mainwindow.cpp.obj	a9d2c14e3e96d689
+3683	4089	7625457180070522	BreathFirstSearch_BFS.exe	b6ba6002bf464e31
