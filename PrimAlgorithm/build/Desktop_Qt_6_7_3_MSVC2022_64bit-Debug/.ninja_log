@@ -1,0 +1,20 @@
+# ninja log v6
+15	404	7625425536544631	PrimAlgorithm_autogen/timestamp	b812f3c4b2bf88c2
+15	404	7625425536544631	PrimAlgorithm_autogen/mocs_compilation.cpp	b812f3c4b2bf88c2
+15	404	7625425536544631	C:/Users/vilcu/Desktop/projects/Graph-algorithms-implementation/PrimAlgorithm/build/Desktop_Qt_6_7_3_MSVC2022_64bit-Debug/PrimAlgorithm_autogen/timestamp	b812f3c4b2bf88c2
+15	404	7625425536544631	C:/Users/vilcu/Desktop/projects/Graph-algorithms-implementation/PrimAlgorithm/build/Desktop_Qt_6_7_3_MSVC2022_64bit-Debug/PrimAlgorithm_autogen/mocs_compilation.cpp	b812f3c4b2bf88c2
+453	1215	7625425537639309	CMakeFiles/PrimAlgorithm.dir/edge.cpp.obj	218e8739c8c71d80
+444	1223	7625425537554165	CMakeFiles/PrimAlgorithm.dir/node.cpp.obj	a32bd2e400a7276e
+464	2875	7625425537751174	CMakeFiles/PrimAlgorithm.dir/graph.cpp.obj	93ec8ea344ec0180
+423	3013	7625425537343794	CMakeFiles/PrimAlgorithm.dir/main.cpp.obj	3c0c5dc3c339ceb4
+415	3093	7625425537255100	CMakeFiles/PrimAlgorithm.dir/PrimAlgorithm_autogen/mocs_compilation.cpp.obj	c8e95bb1509c48d4
+433	3289	7625425537438966	CMakeFiles/PrimAlgorithm.dir/mainwindow.cpp.obj	4f61772c2aded047
+3290	3761	7625425566014420	PrimAlgorithm.exe	659b56afce093d64
+53	619	7625426427650135	PrimAlgorithm_autogen/timestamp	b812f3c4b2bf88c2
+53	619	7625426427650135	PrimAlgorithm_autogen/mocs_compilation.cpp	b812f3c4b2bf88c2
+53	619	7625426427650135	C:/Users/vilcu/Desktop/projects/Graph-algorithms-implementation/PrimAlgorithm/build/Desktop_Qt_6_7_3_MSVC2022_64bit-Debug/PrimAlgorithm_autogen/timestamp	b812f3c4b2bf88c2
+53	619	7625426427650135	C:/Users/vilcu/Desktop/projects/Graph-algorithms-implementation/PrimAlgorithm/build/Desktop_Qt_6_7_3_MSVC2022_64bit-Debug/PrimAlgorithm_autogen/mocs_compilation.cpp	b812f3c4b2bf88c2
+630	3365	7625426428658088	CMakeFiles/PrimAlgorithm.dir/main.cpp.obj	3c0c5dc3c339ceb4
+622	3405	7625426428588027	CMakeFiles/PrimAlgorithm.dir/PrimAlgorithm_autogen/mocs_compilation.cpp.obj	c8e95bb1509c48d4
+639	3649	7625426428757079	CMakeFiles/PrimAlgorithm.dir/mainwindow.cpp.obj	4f61772c2aded047
+3649	3893	7625426458864354	PrimAlgorithm.exe	659b56afce093d64

@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-67392911ba8c7539eaea.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "PrimAlgorithm",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "PrimAlgorithm::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-PrimAlgorithm-Debug-5e2661561d11e1ec36e9.json",
+					"name" : "PrimAlgorithm",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "PrimAlgorithm_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-PrimAlgorithm_autogen-Debug-9fdf77feafb660fc801d.json",
+					"name" : "PrimAlgorithm_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "PrimAlgorithm_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-PrimAlgorithm_autogen_timestamp_deps-Debug-f62978b1d5a9a4b7380e.json",
+					"name" : "PrimAlgorithm_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/vilcu/Desktop/projects/Graph-algorithms-implementation/PrimAlgorithm/build/Desktop_Qt_6_7_3_MSVC2022_64bit-Debug",
+		"source" : "C:/Users/vilcu/Desktop/projects/Graph-algorithms-implementation/PrimAlgorithm"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}
