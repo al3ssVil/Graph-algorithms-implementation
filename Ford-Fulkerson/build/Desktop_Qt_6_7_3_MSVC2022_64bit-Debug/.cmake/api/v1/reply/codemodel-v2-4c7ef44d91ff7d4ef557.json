@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-f9700ca4ac3837324ce8.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Ford-Fulkerson",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Ford-Fulkerson::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Ford-Fulkerson-Debug-b05adf939497e2e6e548.json",
+					"name" : "Ford-Fulkerson",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Ford-Fulkerson_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Ford-Fulkerson_autogen-Debug-e055e41d64d582ec4d0b.json",
+					"name" : "Ford-Fulkerson_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Ford-Fulkerson_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Ford-Fulkerson_autogen_timestamp_deps-Debug-86e37f661fd88d93ebe8.json",
+					"name" : "Ford-Fulkerson_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/vilcu/Desktop/projects/Graph-algorithms-implementation/Ford-Fulkerson/build/Desktop_Qt_6_7_3_MSVC2022_64bit-Debug",
+		"source" : "C:/Users/vilcu/Desktop/projects/Graph-algorithms-implementation/Ford-Fulkerson"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

@@ -1,0 +1,12 @@
+# ninja log v6
+19	582	7625437399798038	Ford-Fulkerson_autogen/timestamp	960932910629f7a5
+19	582	7625437399798038	Ford-Fulkerson_autogen/mocs_compilation.cpp	960932910629f7a5
+19	582	7625437399798038	C:/Users/vilcu/Desktop/projects/Graph-algorithms-implementation/Ford-Fulkerson/build/Desktop_Qt_6_7_3_MSVC2022_64bit-Debug/Ford-Fulkerson_autogen/timestamp	960932910629f7a5
+19	582	7625437399798038	C:/Users/vilcu/Desktop/projects/Graph-algorithms-implementation/Ford-Fulkerson/build/Desktop_Qt_6_7_3_MSVC2022_64bit-Debug/Ford-Fulkerson_autogen/mocs_compilation.cpp	960932910629f7a5
+643	1798	7625437401548551	CMakeFiles/Ford-Fulkerson.dir/edge.cpp.obj	2eca97ac1750b2d2
+632	1945	7625437401443293	CMakeFiles/Ford-Fulkerson.dir/node.cpp.obj	e11f9a9aa386ba4c
+653	3886	7625437401658873	CMakeFiles/Ford-Fulkerson.dir/graph.cpp.obj	6698946f71ba283e
+607	4025	7625437401184548	CMakeFiles/Ford-Fulkerson.dir/main.cpp.obj	23d2c189150d54dc
+596	4167	7625437401080038	CMakeFiles/Ford-Fulkerson.dir/Ford-Fulkerson_autogen/mocs_compilation.cpp.obj	b083b2702f0e1a5d
+622	4446	7625437401342936	CMakeFiles/Ford-Fulkerson.dir/mainwindow.cpp.obj	b44c04e2fb53ac0e
+4447	5002	7625437439587291	Ford-Fulkerson.exe	9bb19310c5640b27

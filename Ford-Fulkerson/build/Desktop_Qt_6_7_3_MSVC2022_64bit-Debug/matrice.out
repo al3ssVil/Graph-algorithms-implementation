@@ -1,0 +1,12 @@
+Matricea pentru graf neorientat: 5
+0 7 0 0 4 
+7 0 8 6 5 
+0 8 0 5 2 
+0 6 5 0 4 
+4 5 2 4 0 
+Matricea pentru graf orientat: 5
+0 7 0 0 0 
+0 0 8 6 0 
+0 0 0 0 0 
+0 0 5 0 0 
+4 5 2 4 0 
