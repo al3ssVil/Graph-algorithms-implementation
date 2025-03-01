@@ -1,0 +1,18 @@
+# ninja log v6
+46	925	7625430000370472	KruskalAlgorithm_autogen/timestamp	1db11ae08053bf56
+46	925	7625430000370472	KruskalAlgorithm_autogen/mocs_compilation.cpp	1db11ae08053bf56
+46	925	7625430000370472	C:/Users/vilcu/Desktop/projects/Graph-algorithms-implementation/KruskalAlgorithm/build/Desktop_Qt_6_7_3_MSVC2022_64bit-Debug/KruskalAlgorithm_autogen/timestamp	1db11ae08053bf56
+46	925	7625430000370472	C:/Users/vilcu/Desktop/projects/Graph-algorithms-implementation/KruskalAlgorithm/build/Desktop_Qt_6_7_3_MSVC2022_64bit-Debug/KruskalAlgorithm_autogen/mocs_compilation.cpp	1db11ae08053bf56
+963	2259	7625430001580465	CMakeFiles/KruskalAlgorithm.dir/node.cpp.obj	546138961e7cfb33
+974	2293	7625430001699567	CMakeFiles/KruskalAlgorithm.dir/edge.cpp.obj	202fa3e2d158c3f
+984	3578	7625430001793535	CMakeFiles/KruskalAlgorithm.dir/graph.cpp.obj	b6a3d9fd2dc36d39
+937	3597	7625430001314110	CMakeFiles/KruskalAlgorithm.dir/KruskalAlgorithm_autogen/mocs_compilation.cpp.obj	5027ba2efe93ace
+945	3607	7625430001399493	CMakeFiles/KruskalAlgorithm.dir/main.cpp.obj	29c88f081ce87720
+954	3794	7625430001489032	CMakeFiles/KruskalAlgorithm.dir/mainwindow.cpp.obj	86ad031e776e0c01
+3794	4174	7625430029890280	KruskalAlgorithm.exe	f2e99d15e137080d
+36	167	7625430220972531	KruskalAlgorithm_autogen/timestamp	1db11ae08053bf56
+36	167	7625430220972531	KruskalAlgorithm_autogen/mocs_compilation.cpp	1db11ae08053bf56
+36	167	7625430220972531	C:/Users/vilcu/Desktop/projects/Graph-algorithms-implementation/KruskalAlgorithm/build/Desktop_Qt_6_7_3_MSVC2022_64bit-Debug/KruskalAlgorithm_autogen/timestamp	1db11ae08053bf56
+36	167	7625430220972531	C:/Users/vilcu/Desktop/projects/Graph-algorithms-implementation/KruskalAlgorithm/build/Desktop_Qt_6_7_3_MSVC2022_64bit-Debug/KruskalAlgorithm_autogen/mocs_compilation.cpp	1db11ae08053bf56
+170	2339	7625430222310145	CMakeFiles/KruskalAlgorithm.dir/mainwindow.cpp.obj	86ad031e776e0c01
+2339	2582	7625430244008355	KruskalAlgorithm.exe	f2e99d15e137080d
