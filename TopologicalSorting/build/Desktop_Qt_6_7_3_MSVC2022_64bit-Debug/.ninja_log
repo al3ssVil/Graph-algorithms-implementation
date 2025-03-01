@@ -1,0 +1,12 @@
+# ninja log v6
+53	1025	7625419470657415	TopologicalSorting_autogen/timestamp	11fe84ea27bc146a
+53	1025	7625419470657415	TopologicalSorting_autogen/mocs_compilation.cpp	11fe84ea27bc146a
+53	1025	7625419470657415	C:/Users/vilcu/Desktop/projects/Graph-algorithms-implementation/TopologicalSorting/build/Desktop_Qt_6_7_3_MSVC2022_64bit-Debug/TopologicalSorting_autogen/timestamp	11fe84ea27bc146a
+53	1025	7625419470657415	C:/Users/vilcu/Desktop/projects/Graph-algorithms-implementation/TopologicalSorting/build/Desktop_Qt_6_7_3_MSVC2022_64bit-Debug/TopologicalSorting_autogen/mocs_compilation.cpp	11fe84ea27bc146a
+1079	2576	7625419472402797	CMakeFiles/TopologicalSorting.dir/edge.cpp.obj	eefabe573c74364e
+1118	2597	7625419472791564	CMakeFiles/TopologicalSorting.dir/node.cpp.obj	83427ae91625ab93
+1039	4627	7625419472010358	CMakeFiles/TopologicalSorting.dir/TopologicalSorting_autogen/mocs_compilation.cpp.obj	13a3d00fa033aab5
+1053	4646	7625419472135680	CMakeFiles/TopologicalSorting.dir/main.cpp.obj	27d66b1828def1a2
+1066	4688	7625419472266081	CMakeFiles/TopologicalSorting.dir/mainwindow.cpp.obj	5005e9c58212ba22
+1132	4882	7625419472936989	CMakeFiles/TopologicalSorting.dir/graph.cpp.obj	895fb244d352dca5
+4882	5323	7625419510431981	TopologicalSorting.exe	22d8056f111268f7
