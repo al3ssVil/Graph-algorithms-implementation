@@ -1,0 +1,10 @@
+# ninja log v6
+42	1525	7625433037351623	DijkstraAlgorithm_autogen/timestamp	a5e34fdbf9a5395d
+42	1525	7625433037351623	DijkstraAlgorithm_autogen/mocs_compilation.cpp	a5e34fdbf9a5395d
+42	1525	7625433037351623	C:/Users/vilcu/Desktop/projects/Graph-algorithms-implementation/DijkstraAlgorithm/build/Desktop_Qt_6_7_3_MSVC2022_64bit-Debug/DijkstraAlgorithm_autogen/timestamp	a5e34fdbf9a5395d
+42	1525	7625433037351623	C:/Users/vilcu/Desktop/projects/Graph-algorithms-implementation/DijkstraAlgorithm/build/Desktop_Qt_6_7_3_MSVC2022_64bit-Debug/DijkstraAlgorithm_autogen/mocs_compilation.cpp	a5e34fdbf9a5395d
+1595	6160	7625433040849346	CMakeFiles/DijkstraAlgorithm.dir/Graph.cpp.obj	d55a3b9272301080
+1558	6324	7625433040472350	CMakeFiles/DijkstraAlgorithm.dir/main.cpp.obj	5a7a50ad5626d55b
+1543	6365	7625433040324467	CMakeFiles/DijkstraAlgorithm.dir/DijkstraAlgorithm_autogen/mocs_compilation.cpp.obj	3bf5e900d2fbe69d
+1581	6624	7625433040699245	CMakeFiles/DijkstraAlgorithm.dir/mainwindow.cpp.obj	3a209ed6cdf764e
+6624	7202	7625433091134318	DijkstraAlgorithm.exe	1bd11a2a37b7b7ef
